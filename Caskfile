@@ -1,0 +1,10 @@
+# QuickLook plugins
+brew cask install qlmarkdown qlstephen qlcolorcode quicklook-json qlprettypatch
+brew cask install quicklook-csv qlimagesize webpquicklook provisionql
+
+# Dev Tools
+brew cask install iterm2
+brew cask install charles
+
+# Media
+brew cask install vlc
